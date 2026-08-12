@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yunus Hanifi Öztürk</h1>
-<h3 align="center">Computer Engineering Student in Turkey</h3>
+<h3 align="center">Computer Engineer in Turkey</h3>
 
 <p align="center">
 I'm Computer Engineer with a strong interest in web development, DevOps, and modern software technologies. I have a solid foundation in Java, C#, and JavaScript, which I've used to develop various projects. I am passionate about staying up-to-date with the latest industry trends and continuously improving my skills.
