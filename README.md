@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Yunus Hanifi Öztürk</h1>
-<h3 align="center">Computer Engineer · Full-Stack Developer</h3>
+<h3 align="center">Full-Stack Developer · AI & Automation</h3>
 
 <p align="center">
-  <a href="https://yunushanifiozturk.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-yunushanifiozturk.com-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/yunus-hanifi-ozturk" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+  Computer Engineering graduate who ships production products <em>and</em> builds streaming data pipelines.
+</p>
+
+<p align="center">
+  <a href="https://yunushanifiozturk.com"><img src="https://img.shields.io/badge/Portfolio-yunushanifiozturk.com-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/yunus-hanifi-ozturk"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
   <a href="mailto:yhanifi4416@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://img.shields.io/badge/%C4%B0stanbul%20%C2%B7%20Kocaeli-334155?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
   <img src="https://img.shields.io/badge/Remote%20%C2%B7%20Hybrid%20%C2%B7%20On--site-475569?style=for-the-badge" alt="Work preference" />
@@ -15,14 +19,29 @@
 
 Computer Engineering graduate from **Kocaeli University**. I build web, mobile and SaaS products end to end — from the interface down to the backend and data infrastructure.
 
-My focus is on **AI-powered applications**, **social media / workflow automation**, and **digitizing manual business processes** — turning real user needs into products that stay maintainable after launch.
+Most of my work sits in one of two places: **AI-powered products** (video generation, LLM pipelines, computer vision) and **automation that removes manual work** from real business processes. I've shipped software that paying customers use, and I've built streaming pipelines that process network traffic at scale.
 
+- 🔭 **Currently building** AI-driven content tools and social media automation platforms
 - 🧩 **Day to day:** Next.js & React on the front, Node.js / Express and Firebase–Supabase on the back
-- 🤖 **Interested in:** applied AI (LLM pipelines, computer vision) and data engineering with streaming architectures
-- 🚀 **Also comfortable with:** Docker, CI/CD (GitHub Actions), Nginx and Ubuntu Server deployments
-- 🤝 **Working style:** Agile (Scrum & Kanban), comfortable in small cross-functional teams
+- 🤖 **Going deeper on:** applied AI (LLM orchestration, computer vision) and streaming data architectures
 - 📍 **Availability:** open to roles in İstanbul & Kocaeli — remote, hybrid or on-site — and available to travel
-- 🌍 **Languages:** Turkish (native), English (B2)
+
+---
+
+## Featured Projects
+
+<!-- TODO: aşağıdaki "—" işaretli linkler doldurulmadan yayına alma -->
+
+| Project | What it does | Stack |
+| :-- | :-- | :-- |
+| **Shortsly AI** | Generates short-form videos automatically — script, media and render orchestrated end to end | `Next.js` `Python` `AI/LLM` |
+| **[IoT Intrusion Detection Pipeline](https://github.com/yunushanifi84/big-data-network-analysis-project)** | Streaming pipeline that ingests IoT network traffic and flags attacks in near real time | `Kafka` `Spark` `Delta Lake` |
+| **[POtomasyon](https://prodosdijital.tr)** | Digitizes technical-service and back-office workflows for a real client; repetitive steps automated with n8n | `Vite` `Supabase` `n8n` |
+| **Lateral Transfer System** | University platform for student transfer applications — role-based access, secure document upload, accessibility | `Next.js` `React` `REST API` |
+| **[Low-Light Image Enhancement](https://github.com/yunushanifi84/Low-Light-Encahnement)** | Restores detail in dark images; benchmarks Zero-DCE against a U-Net baseline | `PyTorch` `Zero-DCE` `U-Net` |
+| **Kelime Mayınları** | Real-time multiplayer word game with live state sync between players | `React Native` `Expo` `WebSocket` |
+
+<sub>Built at Kocaeli University Embedded Systems Lab (Lateral Transfer System) and Prodos Bilişim Sistemleri (POtomasyon).</sub>
 
 ---
 
@@ -35,6 +54,8 @@ My focus is on **AI-powered applications**, **social media / workflow automation
     <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,vite&theme=dark" />
     <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,vite&theme=light" alt="Next.js, React, TypeScript, JavaScript, HTML, CSS, Vite" />
   </picture>
+  <br />
+  <sub>React Native · Expo for mobile</sub>
 </p>
 
 **Backend & BaaS**
@@ -44,17 +65,6 @@ My focus is on **AI-powered applications**, **social media / workflow automation
     <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,cs,dotnet,firebase,supabase&theme=dark" />
     <img src="https://skillicons.dev/icons?i=nodejs,express,cs,dotnet,firebase,supabase&theme=light" alt="Node.js, Express, C#, .NET, Firebase, Supabase" />
   </picture>
-</p>
-
-**Mobile**
-
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=react&theme=light" alt="React Native" />
-  </picture>
-  <br />
-  <sub>React Native · Expo</sub>
 </p>
 
 **Databases**
@@ -92,21 +102,14 @@ My focus is on **AI-powered applications**, **social media / workflow automation
 
 ---
 
-<!-- PROJECTS: bu bölüm bir sonraki adımda doldurulacak -->
-
-## GitHub Stats
-
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=yunushanifi84&show_icons=true&hide_border=true&theme=tokyonight" />
-    <img src="https://github-readme-stats.vercel.app/api?username=yunushanifi84&show_icons=true&hide_border=true" alt="GitHub Stats" height="165" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yunushanifi84&layout=compact&hide_border=true&theme=tokyonight" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunushanifi84&layout=compact&hide_border=true" alt="Top Languages" height="165" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yunushanifi84/yunushanifi84/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/yunushanifi84/yunushanifi84/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
   </picture>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yunushanifi84/yunushanifi84/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+  <strong>Open to full-stack, AI and automation roles.</strong><br />
+  Reach me at <a href="mailto:yhanifi4416@gmail.com">yhanifi4416@gmail.com</a> or on <a href="https://www.linkedin.com/in/yunus-hanifi-ozturk">LinkedIn</a>.
 </p>
