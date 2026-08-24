@@ -17,14 +17,29 @@
 
 ## About Me
 
-Computer Engineering graduate from **Kocaeli University**. I build web, mobile and SaaS products end to end — from the interface down to the backend and data infrastructure.
+**Computer Engineering graduate from Kocaeli University** (2022–2026, GPA 3.18/4.00). I build web, mobile and SaaS products end to end — from the interface down to the backend and data infrastructure.
 
 Most of my work sits in one of two places: **AI-powered products** (video generation, LLM pipelines, computer vision) and **automation that removes manual work** from real business processes. I've shipped software that paying customers use, and I've built streaming pipelines that process network traffic at scale.
 
-- 🔭 **Currently building** AI-driven content tools and social media automation platforms
+I finish what I start. Projects get shipped, not shelved. And I keep my stack current — new tools get picked up as they land, not years later.
+
+- 🔭 **Currently building:** **ShadowBridge** — my main long-term project, alongside AI-driven content tools and social media automation platforms
 - 🧩 **Day to day:** Next.js & React on the front, Node.js / Express and Firebase–Supabase on the back
 - 🤖 **Going deeper on:** applied AI (LLM orchestration, computer vision) and streaming data architectures
+- 🛠️ **Comfortable across:** web, mobile (React Native), DevOps (Docker, CI/CD, Nginx, Ubuntu Server) and data engineering
 - 📍 **Availability:** open to roles in İstanbul & Kocaeli — remote, hybrid or on-site — and available to travel
+
+---
+
+## Experience
+
+| Role | Where | When |
+| :-- | :-- | :-- |
+| **Web Developer** | Kocaeli University Embedded Systems Lab | Oct 2024 – Jun 2026 |
+| **Application Developer Intern** | Prodos Bilişim Sistemleri | Aug 2025 – Sep 2025 |
+| **IT Intern** | MARTUR FOMPAK International | Jul 2025 – Aug 2025 |
+
+<sub>Advised by Prof. Dr. Suhap Şahin and Asst. Prof. Hikmetcan Özcan at Kocaeli University.</sub>
 
 ---
 
