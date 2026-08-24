@@ -23,7 +23,7 @@ Most of my work sits in one of two places: **AI-powered products** (video genera
 
 I finish what I start. Projects get shipped, not shelved. And I keep my stack current — new tools get picked up as they land, not years later.
 
-- 🔭 **Currently building:** **ShadowBridge** — my main long-term project, alongside AI-driven content tools and social media automation platforms
+- 🔭 **Currently building:** **ShadowBridge** — a privacy-preserving fraud-detection research project
 - 🧩 **Day to day:** Next.js & React on the front, Node.js / Express and Firebase–Supabase on the back
 - 🤖 **Going deeper on:** applied AI (LLM orchestration, computer vision) and streaming data architectures
 - 🛠️ **Comfortable across:** web, mobile (React Native), DevOps (Docker, CI/CD, Nginx, Ubuntu Server) and data engineering
@@ -45,18 +45,15 @@ I finish what I start. Projects get shipped, not shelved. And I keep my stack cu
 
 ## Featured Projects
 
-<!-- TODO: aşağıdaki "—" işaretli linkler doldurulmadan yayına alma -->
-
 | Project | What it does | Stack |
 | :-- | :-- | :-- |
-| **Shortsly AI** | Generates short-form videos automatically — script, media and render orchestrated end to end | `Next.js` `Python` `AI/LLM` |
+| **ShadowBridge** 🔬 | Privacy-preserving fraud detection across institutions — ongoing research project, private for now | `Python` `Applied cryptography` |
+| **[Shortsly AI](https://shortslyai.com)** | SaaS that turns long videos into ready-to-post vertical shorts — transcription, AI clip selection and render, distributed across worker nodes | `Next.js 16` `FastAPI` `MongoDB` `S3` |
 | **[IoT Intrusion Detection Pipeline](https://github.com/yunushanifi84/big-data-network-analysis-project)** | Streaming pipeline that ingests IoT network traffic and flags attacks in near real time | `Kafka` `Spark` `Delta Lake` |
 | **[POtomasyon](https://prodosdijital.tr)** | Digitizes technical-service and back-office workflows for a real client; repetitive steps automated with n8n | `Vite` `Supabase` `n8n` |
-| **Lateral Transfer System** | University platform for student transfer applications — role-based access, secure document upload, accessibility | `Next.js` `React` `REST API` |
 | **[Low-Light Image Enhancement](https://github.com/yunushanifi84/Low-Light-Encahnement)** | Restores detail in dark images; benchmarks Zero-DCE against a U-Net baseline | `PyTorch` `Zero-DCE` `U-Net` |
-| **Kelime Mayınları** | Real-time multiplayer word game with live state sync between players | `React Native` `Expo` `WebSocket` |
 
-<sub>Built at Kocaeli University Embedded Systems Lab (Lateral Transfer System) and Prodos Bilişim Sistemleri (POtomasyon).</sub>
+<sub>POtomasyon was built during my internship at Prodos Bilişim Sistemleri.</sub>
 
 ---
 
