@@ -17,7 +17,7 @@
 
 ## About Me
 
-**Computer Engineering graduate from Kocaeli University** (2022–2026, GPA 3.18/4.00). I build web, mobile and SaaS products end to end — from the interface down to the backend and data infrastructure.
+**Computer Engineering graduate from Kocaeli University** (2022–2026, GPA 3.13/4.00). I build web, mobile and SaaS products end to end — from the interface down to the backend and data infrastructure.
 
 Most of my work sits in one of two places: **AI-powered products** (video generation, LLM pipelines, computer vision) and **automation that removes manual work** from real business processes. I've shipped software that paying customers use, and I've built streaming pipelines that process network traffic at scale.
 
